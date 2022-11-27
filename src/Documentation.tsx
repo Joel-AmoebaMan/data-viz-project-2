@@ -8,6 +8,18 @@ const Documentation = () => {
             <Typography variant="h1" gutterBottom>
             Documentation
             </Typography>
+            <Typography variant="h2" gutterBottom>
+            Context
+            </Typography>
+            <Typography variant="h2" gutterBottom>
+            The Design Process
+            </Typography>
+            <Typography variant="h2" gutterBottom>
+            Proposal Questions Revisited
+            </Typography>
+            <Typography variant="h2" gutterBottom>
+            Reflection
+            </Typography>
         </Box>
     )
 }
